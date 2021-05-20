@@ -1,2 +1,3 @@
 # solid-eureka
-this is first repository
+this is first repository.
+This is first commit.
